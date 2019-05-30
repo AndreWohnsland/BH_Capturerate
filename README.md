@@ -28,11 +28,13 @@ Other Variables like raidtier, monster rarity, difficulty, raid basket cost, num
 
 ## Some Example Pictures
 
-A single Simulation:\
+A single Simulation:
+
 
 ![alt text](https://github.com/AndreWohnsland/BH_Capturerate/blob/master/specific_t100000_CR340_R3Hc_Epic.png "Single Simulation for bribe and not bribe")
 
-a Range:\
+a Range:
+
 
 ![alt text](https://github.com/AndreWohnsland/BH_Capturerate/blob/master/range_t100_R3Hc_Epic.png "Simulation of different Capturerates")
 
