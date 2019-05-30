@@ -1,4 +1,3 @@
-# BH_Capturerate
 # Bit Heroes Capture Rate Simulator
 
 Hello everyone! This is a little tool which uses the RNG logic behind the persuade and capture rate of familiars in the Bit Heroes Game. 
@@ -29,9 +28,11 @@ Other Variables like raidtier, monster rarity, difficulty, raid basket cost, num
 
 ## Some Example Pictures
 
-For example:\
+A single Simulation:\
+
 ![alt text](https://github.com/AndreWohnsland/BH_Capturerate/blob/master/specific_t100000_CR340_R3Hc_Epic.png "Single Simulation for bribe and not bribe")
 
-or this:\
+a Range:\
+
 ![alt text](https://github.com/AndreWohnsland/BH_Capturerate/blob/master/range_t100_R3Hc_Epic.png "Simulation of different Capturerates")
 
